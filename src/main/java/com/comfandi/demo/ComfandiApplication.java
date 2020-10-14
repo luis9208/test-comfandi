@@ -1,0 +1,13 @@
+package com.comfandi.demo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ComfandiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ComfandiApplication.class, args);
+	}
+
+}
